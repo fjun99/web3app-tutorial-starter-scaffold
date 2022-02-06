@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <Heading as="h3"  my={4}>Explore Web3</Heading>          
       <VStack>
-        <Box  my={4} p={4} w='100%' borderWidth="1px" borderRadius="lg">
+        <Box  mb={0} p={4} w='100%' borderWidth="1px" borderRadius="lg">
           <Heading my={4}  fontSize='xl'>Task 1</Heading>
           <Text>local chain with hardhat</Text>
         </Box>
